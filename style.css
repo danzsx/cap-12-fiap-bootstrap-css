@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Hedvig+Letters+Serif:opsz@12..24&family=Prata&family=Raleway&display=swap');
+
+body{
+    background-color: var(--bs-dark);
+    
+}
+.container{
+    width: 350px;
+    height: 720px;
+    background-color: var(--bs-primary);
+    border-radius: 40px;
+    margin-top: 10px;
+}
+i.nav-icon{
+    color: var(--bs-secondary);
+    font-size: 1.5em;
+    cursor: pointer;
+    padding-bottom: 20px;
+
+
+}
+
+.comprovanteConsulta{
+  border-radius: 5px;
+  background-color: var(--bs-primary);
+  color:var(--bs-light);
+}
+li{
+  font-family: 'Hedvig Letters Serif', serif;
+  font-family: 'Prata', serif;
+  font-family: 'Raleway', sans-serif;
+}
